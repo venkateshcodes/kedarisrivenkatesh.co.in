@@ -23,7 +23,7 @@ As a data analytics enthusiast, I thrive on using data to uncover insights and s
 ## Skills
 
 - **Data Analysis and Visualization**: Power BI, Excel, Tableau
-- **Programming Languages**: Python (Pandas, NumPy, Matplotlib), SQL
+- **Programming Languages**: Python (Pandas), SQL,R
 - **Database Management**: Oracle SQL, MySQL
 - **Soft Skills**: High-impact presentations, time management, and team collaboration
 
@@ -31,16 +31,14 @@ As a data analytics enthusiast, I thrive on using data to uncover insights and s
 
 ## Certifications
 
-- Cisco Essentials 1
-- Python Essentials 1
+- Cisco Essentials 1 (Cisco Networking Academy)
+- Python Essentials 1 (Cisco Networking Academy)
 - Data Analytics Essentials (Cisco Networking Academy)
-- Analyze and Visualize Looker Data Skill Badge (Google Cloud)
 - DBMS Certificate (Infosys Springboard)
 - Multi-Dimensional Data Modeling (Infosys Springboard)
 - Introduction to Software Engineering (Infosys Springboard)
 - Email Writing Skills, High-Impact Presentations, Time Management (Infosys Springboard)
-- Learning Microsoft Power BI, Hands-On Data Visualization with Microsoft Power BI
-- Diversity Inclusion Analytics Project (Power BI)
+- Learning Microsoft Power BI, Hands-On Data Visualization with Microsoft Power BI (Infosys Springboard)
 - Data Analytics and Visualization Job Simulation (Accenture and Forage)
 - Google Data Analytics Professional Certificate (Coursera)
 
@@ -48,7 +46,7 @@ As a data analytics enthusiast, I thrive on using data to uncover insights and s
 
 ## Projects
 
-### Hotel Management Dashboard
+### Hotel Management Dashboard (On - Going)
 - Developed a Power BI dashboard to analyze and optimize key performance metrics in the hospitality domain.
 
 ### Call Center Analytics
@@ -67,7 +65,7 @@ As a data analytics enthusiast, I thrive on using data to uncover insights and s
 ### Intern, PwC (via Forge Collaboration)
 - Participated in an internship program where I applied data analytics to solve practical business problems.
 
-### Data Analytics Intern, Brave Artificial Intelligence Laboratory
+### Data Analytics Intern, Brave Artificial Intelligence Laboratory (via Forge Collaboration)
 - Contributed to data visualization projects and provided insights for AI-driven decision-making.
 
 ---
