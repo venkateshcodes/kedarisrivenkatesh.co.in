@@ -23,7 +23,7 @@ As a data analytics enthusiast, I thrive on using data to uncover insights and s
 ## Skills
 
 - **Data Analysis and Visualization**: Power BI, Excel, Tableau
-- **Programming Languages**: Python (Pandas), SQL,R
+- **Programming Languages**: Python (Pandas), SQL, R
 - **Database Management**: Oracle SQL, MySQL
 - **Soft Skills**: High-impact presentations, time management, and team collaboration
 
@@ -46,7 +46,7 @@ As a data analytics enthusiast, I thrive on using data to uncover insights and s
 
 ## Projects
 
-### Hotel Management Dashboard (On - Going)
+### Hotel Management Dashboard On - Going.....
 - Developed a Power BI dashboard to analyze and optimize key performance metrics in the hospitality domain.
 
 ### Call Center Analytics
