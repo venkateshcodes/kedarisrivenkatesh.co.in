@@ -57,3 +57,22 @@
 
 })(jQuery);
 
+// Custom Glow Cursor
+document.addEventListener('DOMContentLoaded', () => {
+    const glow = document.querySelector('.cursor-glow');
+    if (!glow) return; // Avoid errors if element not found
+
+    document.addEventListener('mousemove', e => {
+        glow.style.left = `${e.clientX}px`;
+        glow.style.top = `${e.clientY}px`;
+    });
+
+    document.addEventListener('mousedown', () => {
+        glow.style.transform = 'translate(-50%, -50%) scale(1.5)';
+    });
+
+    document.addEventListener('mouseup', () => {
+        glow.style.transform = 'translate(-50%, -50%) scale(1)';
+    });
+});
+
