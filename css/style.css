@@ -538,3 +538,23 @@
     }
 }
 /*** footer End ***/
+
+/*** Custom Cursor Glow ***/
+body {
+    cursor: none; /* Hide the default cursor */
+}
+
+.cursor-glow {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 30px;
+    height: 30px;
+    background: rgba(0, 123, 255, 0.3); /* Soft blue glow, adjust color as needed */
+    border-radius: 50%;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 20px rgba(0, 123, 255, 0.6);
+    transition: transform 0.15s ease-out;
+    z-index: 99999;
+}
