@@ -333,6 +333,39 @@
     border-color: var(--bs-light) var(--bs-light) var(--bs-light) transparent;
     z-index: -1;
 }
+
+/* Flat Blue Button */
+
+.project-description {
+    margin-bottom: 20px; /* space between paragraph and button */
+    line-height: 1.6;    /* makes paragraph text easier to read */
+}
+
+
+.btn-flat-linkedin {
+    background-color: #0A66C2; /* LinkedIn blue */
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    border: none;
+    padding: 10px 20px;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
+}
+
+.btn-flat-linkedin:hover {
+    background-color: #004182; /* Darker on hover */
+    color: #fff;
+}
+
+.btn-flat-linkedin i {
+    font-size: 18px;
+}
 /*** Experience End ***/
 
 
@@ -505,8 +538,3 @@
     }
 }
 /*** footer End ***/
-
-
-
-
-
