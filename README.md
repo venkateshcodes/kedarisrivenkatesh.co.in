@@ -1,90 +1,83 @@
-# KEDARI SRI VENKATESH Portfolio
+# 👋 Hi, I'm Kedari Sri Venkatesh
 
-Welcome to my portfolio! I am VENKATESH, a passionate and dedicated final-year B.Sc. Computer Science student with a focus on Data Analytics. My expertise lies in data analysis, visualization, and business intelligence tools such as Excel, Power BI, and SQL. I specialize in delivering actionable insights and supporting strategic decision-making through data-driven projects.
+🎯 **Data Analyst | Storyteller through Data | Aspiring Business Intelligence Expert**
 
-## Table of Contents
-
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Certifications](#certifications)
-- [Projects](#projects)
-- [Experience](#experience)
-- [Education](#education)
-- [Contact](#contact)
+Welcome to my digital workspace — a reflection of my journey as a passionate data analytics student turning raw numbers into strategic insights. I’m currently pursuing my **B.Sc. in Computer Science (Data Analytics)** at **Mohan Babu University**, where I specialize in leveraging data to drive impactful decisions.
 
 ---
 
-## About Me
+## 🧩 About Me
 
-As a data analytics enthusiast, I thrive on using data to uncover insights and solve real-world problems. My journey includes creating impactful dashboards, analyzing large datasets, and delivering visualizations that drive business growth. I am constantly looking to expand my expertise and take on new challenges.
+I believe that **data tells stories**, and my goal is to translate those stories into meaningful business actions. My work revolves around uncovering insights, optimizing performance, and visualizing data in ways that inspire clarity and growth.  
 
----
-
-## Skills
-
-- **Data Analysis and Visualization**: Power BI, Excel, Tableau
-- **Programming Languages**: Python (Pandas), SQL, R
-- **Database Management**: Oracle SQL, MySQL
-- **Soft Skills**: High-impact presentations, time management, and team collaboration
+I thrive at the intersection of **analytics, design, and strategy** — building dashboards that not only look sharp but also **empower decision-making**.
 
 ---
 
-## Certifications
+## ⚙️ Core Skills
 
-- Cisco Essentials 1 (Cisco Networking Academy)
-- Python Essentials 1 (Cisco Networking Academy)
-- Data Analytics Essentials (Cisco Networking Academy)
-- DBMS Certificate (Infosys Springboard)
-- Multi-Dimensional Data Modeling (Infosys Springboard)
-- Introduction to Software Engineering (Infosys Springboard)
-- Email Writing Skills, High-Impact Presentations, Time Management (Infosys Springboard)
-- Learning Microsoft Power BI, Hands-On Data Visualization with Microsoft Power BI (Infosys Springboard)
-- Data Analytics and Visualization Job Simulation (Accenture and Forage)
-- Google Data Analytics Professional Certificate (Coursera)
+| Category | Tools / Technologies |
+|-----------|----------------------|
+| **Data Analysis & Visualization** | Power BI, Tableau, Excel |
+| **Programming** | Python (Pandas, NumPy), SQL, R |
+| **Databases** | Oracle SQL, MySQL |
+| **Soft Skills** | Strategic Thinking, Time Management, Team Collaboration |
 
 ---
 
-## Projects
+## 🎓 Certifications
 
-### Hotel Management Dashboard On - Going.....
-- Developed a Power BI dashboard to analyze and optimize key performance metrics in the hospitality domain.
-
-### Call Center Analytics
-- Created a Power BI dashboard analyzing call center operations over three months, providing actionable insights into performance trends.
-
-### Churn Dashboard Analytics
-- Designed a dashboard to analyze customer churn trends, helping businesses implement retention strategies.
-
-### Diversity Inclusion Analytics
-- Built an insightful dashboard for HR teams to assess and improve diversity metrics within a multinational company.
+- **Cisco Networking Academy** — Python Essentials 1, Data Analytics Essentials, Cisco Essentials 1  
+- **Infosys Springboard** — DBMS, Multi-Dimensional Data Modeling, Software Engineering  
+- **Infosys Soft Skills** — Email Writing, High-Impact Presentations, Time Management  
+- **Accenture & Forage** — Data Analytics and Visualization Job Simulation  
+- **Coursera** — Google Data Analytics Professional Certificate  
+- **Microsoft Power BI (Infosys Springboard)** — Learning Power BI, Hands-On Data Visualization  
 
 ---
 
-## Experience
+## 🚀 Featured Projects
 
-### Intern, PwC (via Forge Collaboration)
-- Participated in an internship program where I applied data analytics to solve practical business problems.
+### 🏨 Hotel Management Dashboard *(Ongoing)*
+Developing a comprehensive Power BI dashboard to analyze occupancy rates, customer satisfaction, and revenue metrics in the hospitality industry.
 
-### Data Analytics Intern, Brave Artificial Intelligence Laboratory (via Forge Collaboration)
-- Contributed to data visualization projects and provided insights for AI-driven decision-making.
+### ☎️ Call Center Analytics
+Built a Power BI dashboard analyzing 3 months of call center data to identify top-performing agents, response times, and customer sentiment trends.
 
----
+### 📉 Customer Churn Analysis
+Designed an interactive churn analytics dashboard that highlights customer retention trends and supports proactive business strategies.
 
-## Education
-
-- **B.Sc. Computer Science (Data Analytics Focus)**  
-  Mohan Babu University  
-  (Expected Graduation: 2025)
+### 🌍 Diversity & Inclusion Analytics
+Created a visual analytics tool for HR departments to measure diversity ratios and enhance inclusion initiatives across global teams.
 
 ---
 
-## Contact
+## 💼 Professional Experience
 
-Feel free to connect with me:
+### **Data Analytics Intern — PwC (via Forge Collaboration)**
+- Engaged in real-world analytics projects focusing on process optimization and KPI visualization.  
+- Collaborated in a cross-functional team environment to generate actionable business insights.
 
-- **Email**: --
-- **Medium**: https://medium.com/@srivenkatesh6.k
-- **GitHub**: https://github.com/venkateshcodes/My_Dictionary
+### **Data Analytics Intern — Brave Artificial Intelligence Laboratory**
+- Contributed to the visualization of complex datasets supporting AI-driven research.  
+- Applied data storytelling techniques to communicate findings effectively.
+
 ---
 
-Thank you for visiting my portfolio! 🚀
+## 🎓 Education
+
+**Bachelor of Science in Computer Science (Data Analytics Focus)**  
+*Mohan Babu University* — *Expected Graduation: 2025*
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 **Email**: [Add your email here]  
+- 🧠 **Medium**: [https://medium.com/@srivenkatesh6.k](https://medium.com/@srivenkatesh6.k)  
+- 💻 **GitHub**: [https://github.com/venkateshcodes/My_Dictionary](https://github.com/venkateshcodes/My_Dictionary)  
+
+---
+
+> “Data is the new oil, but insight is the spark that ignites change.”  
+> — Kedari Sri Venkatesh 🚀
