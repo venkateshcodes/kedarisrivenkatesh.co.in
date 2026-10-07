@@ -1,83 +1,105 @@
 # 👋 Hi, I'm Kedari Sri Venkatesh
 
-🎯 **Data Analyst | Storyteller through Data | Aspiring Business Intelligence Expert**
+🎯 **Data Analyst | BI Developer | AI Evaluation Specialist**[cite: 1]
 
-Welcome to my digital workspace — a reflection of my journey as a passionate data analytics student turning raw numbers into strategic insights. I’m currently pursuing my **B.Sc. in Computer Science (Data Analytics)** at **Mohan Babu University**, where I specialize in leveraging data to drive impactful decisions.
+Welcome to my digital workspace! I specialize in data analysis, business intelligence, diagnostic reporting, and workflow automation[cite: 1]. With hands-on experience handling tens of thousands of complex records across finance, operations, and market research, I bridge the gap between technical data engineering and strategic executive decision-making[cite: 1, 2].
 
 ---
 
 ## 🧩 About Me
 
-I believe that **data tells stories**, and my goal is to translate those stories into meaningful business actions. My work revolves around uncovering insights, optimizing performance, and visualizing data in ways that inspire clarity and growth.  
+I focus on transforming raw, unstructured datasets into interactive, decision-grade business intelligence assets[cite: 1, 2]. My background spans exploratory data analysis, KPI modeling with DAX, database querying, workflow automation using Google Apps Script, and AI content evaluation[cite: 1].
 
-I thrive at the intersection of **analytics, design, and strategy** — building dashboards that not only look sharp but also **empower decision-making**.
+Whether designing multi-page credit risk dashboards or streamlining multi-department reporting pipelines, I build robust analytical solutions that uncover hidden trends and drive operational efficiency[cite: 1].
 
 ---
 
 ## ⚙️ Core Skills
 
-| Category | Tools / Technologies |
-|-----------|----------------------|
-| **Data Analysis & Visualization** | Power BI, Tableau, Excel |
-| **Programming** | Python (Pandas, NumPy), SQL, R |
-| **Databases** | Oracle SQL, MySQL |
-| **Soft Skills** | Strategic Thinking, Time Management, Team Collaboration |
-
----
-
-## 🎓 Certifications
-
-- **Cisco Networking Academy** — Python Essentials 1, Data Analytics Essentials, Cisco Essentials 1  
-- **Infosys Springboard** — DBMS, Multi-Dimensional Data Modeling, Software Engineering  
-- **Infosys Soft Skills** — Email Writing, High-Impact Presentations, Time Management  
-- **Accenture & Forage** — Data Analytics and Visualization Job Simulation  
-- **Coursera** — Google Data Analytics Professional Certificate  
-- **Microsoft Power BI (Infosys Springboard)** — Learning Power BI, Hands-On Data Visualization  
-
----
-
-## 🚀 Featured Projects
-
-### 🏨 Hotel Management Dashboard *(Ongoing)*
-Developing a comprehensive Power BI dashboard to analyze occupancy rates, customer satisfaction, and revenue metrics in the hospitality industry.
-
-### ☎️ Call Center Analytics
-Built a Power BI dashboard analyzing 3 months of call center data to identify top-performing agents, response times, and customer sentiment trends.
-
-### 📉 Customer Churn Analysis
-Designed an interactive churn analytics dashboard that highlights customer retention trends and supports proactive business strategies.
-
-### 🌍 Diversity & Inclusion Analytics
-Created a visual analytics tool for HR departments to measure diversity ratios and enhance inclusion initiatives across global teams.
+| Category | Tools & Competencies |
+| :--- | :--- |
+| **BI & Visualization** | Power BI (DAX, Power Query, Power BI Service), Looker, Tableau, Microsoft Excel (Pivot Tables, Advanced Formulas)[cite: 1] |
+| **Programming & Databases** | Python (Pandas, NumPy), SQL (Window Functions, CTEs, Subqueries), MySQL, R[cite: 1] |
+| **Analytics & Data Modeling** | Exploratory Data Analysis (EDA), Data Cleaning, KPI Development, ETL, Credit Risk Modeling, Statistical Analysis[cite: 1, 2] |
+| **Automation & Tools** | Google Apps Script, Google Sheets, Git, GitHub[cite: 1] |
+| **Artificial Intelligence** | LLMs, Generative AI Evaluation, AI-assisted Research[cite: 1] |
 
 ---
 
 ## 💼 Professional Experience
 
-### **Data Analytics Intern — PwC (via Forge Collaboration)**
-- Engaged in real-world analytics projects focusing on process optimization and KPI visualization.  
-- Collaborated in a cross-functional team environment to generate actionable business insights.
+### **AI Evaluation Specialist** — *Handshake AI*  
+*(Sep 2026 – Present)*[cite: 1]
+- Evaluate AI-generated work products, including analytical models, documentation, and spreadsheets, against structured professional benchmarks[cite: 1].
+- Assess AI system outputs for factual accuracy, consistency, formatting, and prompt alignment[cite: 1].
+- Contributed to model alignment tasks involving multiplayer game development frameworks in an OpenAI ChatGPT collaboration[cite: 1].
 
-### **Data Analytics Intern — Brave Artificial Intelligence Laboratory**
-- Contributed to the visualization of complex datasets supporting AI-driven research.  
-- Applied data storytelling techniques to communicate findings effectively.
+### **MIS Analyst Intern** — *Kulture Hire*  
+*(Jul 2026 – Oct 2026)*[cite: 1]
+- Processed and audited 6,000+ records across Sales, Finance, CRM, and Operations datasets using SQL, Excel, and Power BI[cite: 1].
+- Engineered end-to-end Power BI dashboards tracking conversion metrics, departmental KPIs, and regional sales trajectories[cite: 1].
+- Programmed a custom Google Apps Script automation for overdue payment alerts, cutting manual tracking time significantly[cite: 1].
+
+### **Data Analyst Intern** — *Kulture Hire*  
+*(Mar 2025 – Apr 2025)*[cite: 1]
+- Cleaned and examined 3,900+ survey records to discover workplace trends and salary expectations[cite: 1].
+- Developed an interactive Power BI suite containing 20+ dynamic visualizations detailing workforce sentiment and demographic patterns[cite: 1].
+- Performed deep-dive SQL queries and presented executive summaries to guide workforce strategy[cite: 1].
+
+---
+
+## 🚀 Featured Projects
+
+### 🏦 Bank Loan Analytics & Credit Risk Intelligence Dashboard
+*Power BI | DAX | Power Query | Risk Analytics*[cite: 2]
+- Audited 38,576 loan facilities totaling $435.8M in disbursement and $473.1M in cash collections to evaluate retail portfolio health[cite: 2].
+- Segmented lending outcomes into Good vs. Bad loans, isolating a $28.2M principal deficit across 5,333 charged-off accounts[cite: 2].
+- Built dynamic MTD, PMTD, and MoM tracking models with DAX alongside interactive choropleth geographic risk maps[cite: 2].
+
+### 📊 Multi-Department Business Intelligence Dashboard
+*Power BI | Power Query | DAX | Advanced Excel*[cite: 2]
+- Consolidated 6,000+ business rows covering revenue, expenses, CRM conversion funnels, and supply chain inventory[cite: 2].
+- Designed a unified star-schema data model in Power BI, enabling leadership to track fulfillment bottlenecks and cash flow health[cite: 2].
+
+### 🌐 Call Center Performance & Customer Churn Dashboards
+*Power BI | DAX | Customer Analytics*
+- Modeled telecommunication call center operations, quantifying agent resolution times, service-level agreements (SLAs), and sentiment shifts.
+- Implemented retention-focused customer churn analytics to flag accounts at risk of defection.
+
+---
+
+## 🏆 Key Achievements
+
+- **Student to Entrepreneur Recognition (Sanskaram University)**: Awarded for architecting **HAI-MOS** (Healthcare AI Marketing Operating System), an AI-driven platform uniting automated content workflows, analytics, and CRM capabilities[cite: 2].
+- **Technical Author (Medium)**: Authored 24+ in-depth technical articles covering data science, programming paradigms, and applied AI tools[cite: 2].
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science (Data Analytics Focus)**  
-*Mohan Babu University* — *Expected Graduation: 2025*
+- **Master of Computer Applications (MCA)** — *Sanskaram University* *(Aug 2025 – Aug 2027)*[cite: 2]  
+  *Focus*: Data Mining, Database Management Systems, Statistical Analysis[cite: 2]
+- **Bachelor of Science (B.Sc.) in Computer Science** — *Mohan Babu University* *(Graduated Aug 2025)*[cite: 2]
+
+---
+
+## 📜 Certifications
+
+- **Oracle Certified Professional** — Oracle Analytics Cloud (2025)[cite: 2]
+- **Udemy** — Microsoft Power BI for Business Intelligence (2026)[cite: 2]
+- **Udemy** — SQL & MySQL Complete Bootcamp: Design to Data Analysis (2026)[cite: 2]
+- **Coursera** — Google Data Analytics Professional Certificate[cite: 2]
+- **Udemy** — Microsoft Excel: Beginner to Advanced (2026)[cite: 2]
 
 ---
 
 ## 🌐 Connect With Me
 
-- 📧 **Email**: [Add your email here]  
-- 🧠 **Medium**: [https://medium.com/@srivenkatesh6.k](https://medium.com/@srivenkatesh6.k)  
-- 💻 **GitHub**: [https://github.com/venkateshcodes/My_Dictionary](https://github.com/venkateshcodes/My_Dictionary)  
+- 📧 **Email**: [srivenkatesh17.k@gmail.com](mailto:srivenkatesh17.k@gmail.com)[cite: 1]
+- 💼 **LinkedIn**: [Kedari Sri Venkatesh](https://linkedin.com)[cite: 1]
+- 💻 **GitHub**: [github.com/venkateshcodes](https://github.com/venkateshcodes)[cite: 1]
+- ✍️ **Medium**: [medium.com/@srivenkatesh6.k](https://medium.com/@srivenkatesh6.k)[cite: 2]
 
 ---
 
-> “Data is the new oil, but insight is the spark that ignites change.”  
-> — Kedari Sri Venkatesh 🚀
+> *“Data is the raw material of modern enterprise; clarity and insight are what transform it into enduring value.”*
